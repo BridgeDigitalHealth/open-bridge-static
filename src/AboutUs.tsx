@@ -249,8 +249,8 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
           <Grid item xs={12} lg={9}>
             <Typography component="p" variant="body1" maxWidth="700px">
               <p>
-              Michael Kellen leads the Digital Health Business Unit at Sage 
-              Bionetworks. Michael served as Sage’s initial CTO starting in 2010, 
+              Michael Kellen is a founder and CEO of Open Bridge, Inc. 
+              Michael served as Sage Bionetworks’ CTO starting in 2010, 
               and led the development of the technology platforms and services team
               at Sage. This team has supported open projects and challenges in the 
               collaborative analysis of human health data through the development 
@@ -258,7 +258,8 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
               collecting human phenotypic data in remote human health studies. In 
               2023 Sage spun its Digital Health work into its own business unit 
               with the vision of developing it into a turnkey service for academia 
-              and industry. 
+              and industry. In 2024 the team that build the Open Bridge system was spun out
+              into a separate for-profit company, Open Bridge, Inc.
               </p><p>
               Michael has over 20 years experience developing software for 
               academic and corporate users in the life sciences, and has brought
@@ -299,8 +300,7 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
               mobile research applications since 2018. 
               </p>
               <p>
-              Erin is currently the Technical Director of the Digital Health 
-              Business Unit at Sage Bionetworks. She received her BS in 
+              Erin is a founder and CTO of Open Bridge Inc. She received her BS in 
               Computer & Information Sciences from Oakland University in 1983 and 
               lives with her family in Seattle.
               </p>
@@ -318,9 +318,10 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
           <Grid item xs={12} lg={9}>
             <Typography component="p" variant="body1" maxWidth="700px">
               <p>
-              Dwayne Jeng has previously worked at Microsoft and Amazon and now 
-              works at Sage Bionetworks as a software engineer with a focus on 
-              webservices, back-end engineering, and dev-ops. 
+              Dwayne Jeng has previously worked at Microsoft, Amazon, and Sage 
+              Bionetworks, and is now a founder of Open Bridge Inc. working as a 
+              software engineer with a focus on webservices, back-end engineering,
+              and dev-ops. 
               </p>
               <p>
               Dwayne has 2 cats and loves video games, board games, fencing, 
@@ -347,7 +348,7 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
               shared library of UI/UX elements. She has been developing software 
               applications for iOS since 2010 when she led the development of an 
               award-winning app for a major retailer built for the newly-released 
-              Gen 1 iPad.
+              Gen 1 iPad. She joined Open Bridge Inc. at its founding in 2024.
               </p>
               <p>
               Shannon graduated from the University of Virginia in 1996 with her MS 
@@ -370,8 +371,9 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
             <Typography component="p" variant="body1" maxWidth="700px">
               <p>
               Nathaniel Brown joined Sage in 2018 as a mobile developer focused on 
-              Android development. He has worked on the development of 
-              cross-platform frameworks for building mobile research applications. 
+              Android development, and is now a founder and board member of Open Bridge Inc. 
+              He has worked on the development of cross-platform frameworks for building 
+              mobile research applications. 
               Prior to Sage, Nathaniel worked at Cozi, starting as the company’s 
               first Android developer to eventually managing the software 
               engineering team. 
@@ -395,37 +397,13 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
             <Typography component="p" variant="body1" maxWidth="700px">
               <p>
               Ann Campton is a Senior Technical Program and Product Manager 
-              supporting digital health studies at Sage Bionetworks. Ann's role is 
+              supporting digital health studies who moved from Sage Bionetworks
+              to join Open Bridge Inc. at its founding in 2024. Ann's role is 
               to drive technology forward in parallel with scientific studies and 
               methodologies. Her experience includes driving technical and 
               science-based requirements, quality assurance, release management, 
               and stakeholder engagement for the implementation of web, mobile, and
               server systems to execute clinical studies.
-              </p>
-            </Typography>
-          </Grid>
-        </Grid>
-        <Grid
-          container
-          rowSpacing={{xs: 8, lg: 25}}
-          mb={8}
-          columnSpacing={{xs: 4, lg: 10}}>
-          <Grid item xs={12} lg={3} textAlign="center">
-            <StyledAvatar src={JNelson} alt="Jack Nelson" />
-          </Grid>
-          <Grid item xs={12} lg={9}>
-            <Typography component="p" variant="body1" maxWidth="700px">
-              <p>
-              Jack Nelson joined Sage Bionetworks in 2021 as a Software Engineer 
-              for back-end development. In his previous career as a production 
-              manager, he learned programming to create tools for inventory and 
-              labor planning. After completing a database migration to SAP, Jack 
-              decided to follow his new interest to Code Fellows where he 
-              completed a program in full-stack development with a focus on Java.
-              </p>
-              <p>
-              In his spare time, Jack enjoys hiking and attempting home improvement
-              projects with varied success.
               </p>
             </Typography>
           </Grid>
