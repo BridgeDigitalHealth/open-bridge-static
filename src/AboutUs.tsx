@@ -201,10 +201,13 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
           About Us
         </Typography>
         <Typography variant="body1" maxWidth="700px" mb={6}>
-          The Bridge Digital Health business unit was formed by Sage Bionetworks
-          in 2023 to develop our Digital Health platform and expertise into a 
-          turnkey service for academia and industry. Open Bridge is the result 
-          of that effort.
+        At Open Bridge Inc., we believe in a patient-centric view of health, where 
+        comprehensive, real-world data plays an essential role in understanding 
+        human health and the lived experience with disease, while improving equity 
+        in healthcare and encouraging patient engagement. Our goal is to make it 
+        easy for health researchers and clinicians to develop and deploy well-validated, 
+        unsupervised digital assessments and passive monitoring of patients, leading 
+        to improved human and AI-driven insights that improve human health.
         </Typography>
       </Section>
       {/*<Box bgcolor={colors.purpleTransparency2}>
