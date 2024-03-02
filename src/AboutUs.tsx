@@ -207,7 +207,7 @@ const AboutUs: FunctionComponent<{onJoin: () => void}> = ({onJoin}) => {
         in healthcare and encouraging patient engagement. Our goal is to make it 
         easy for health researchers and clinicians to develop and deploy well-validated, 
         unsupervised digital assessments and passive monitoring of patients, leading 
-        to improved human and AI-driven insights that improve human health.
+        to human and AI-driven insights that improve human health.
         </Typography>
       </Section>
       {/*<Box bgcolor={colors.purpleTransparency2}>
